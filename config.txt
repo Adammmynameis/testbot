@@ -1,0 +1,3 @@
+token = ODkxMDA3ODU1OTA4NTIwMDQ3.YU4Fug.DnswMdOPte9iF6JUwLSd-Lhy6nQ
+owner = 347410987231608836
+prefix = "!"
